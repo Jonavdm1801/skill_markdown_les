@@ -1,7 +1,7 @@
 # skill_markdown_les
 
 #pepernoten bakken
-(![image](https://github.com/Jonavdm1801/skill_markdown_les/assets/144677463/61f80c39-9fb5-463e-85bd-627758a11e3e)
+([image](https://github.com/Jonavdm1801/skill_markdown_les/assets/144677463/61f80c39-9fb5-463e-85bd-627758a11e3e)
 ## BENODIGDHEDEN
 
 * 150 g ongezouten roomboter
